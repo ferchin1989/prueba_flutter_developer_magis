@@ -1,4 +1,4 @@
-name: prueba_flutter_developer_magis
+name: emovies
 description: "Aplicación de películas usando la API de TMDb para prueba técnica."
 publish_to: 'none'
 version: 1.0.0+1
